@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<appData>
+  <title>NHTV Framework Test</title>
+  <windows>
+    <window title ="NHTV Framework Test" width="1280" height="720" xPos="20" yPos="300"/>
+  </windows>
+  
+</appData>
